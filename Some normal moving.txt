@@ -1,0 +1,587 @@
+=~=~=~=~=~=~=~=~=~=~=~= PuTTY log 2021.12.19 17:00:15 =~=~=~=~=~=~=~=~=~=~=~=
+                                                                                                                                                                                PWM Percent: 0.00%, Thrust: -0.01lbs, Moment: 0.00lbs, Battery Voltage: 26.05V, Current: 3.07A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.00lbs, Moment: -0.00lbs, Battery Voltage: 26.05V, Current: 3.07A, RPM: 0
+PWM Percent: 0.00%, Thrust: 0.01lbs, Moment: 0.00lbs, Battery Voltage: 26.05V, Current: 3.07A, RPM: 0
+PWM Percent: 0.00%, Thrust: 0.01lbs, Moment: 0.01lbs, Battery Voltage: 26.05V, Current: 3.07A, RPM: 0
+PWM Percent: 0.00%, Thrust: 0.01lbs, Moment: 0.00lbs, Battery Voltage: 26.02V, Current: 3.07A, RPM: 0
+PWM Percent: 0.00%, Thrust: -69.58lbs, Moment: -50.02lbs, Battery Voltage: 26.02V, Current: 5.86A, RPM: 55620
+PWM Percent: 0.00%, Thrust: -67.43lbs, Moment: -48.79lbs, Battery Voltage: 26.02V, Current: 9.75A, RPM: 56415
+PWM Percent: 0.00%, Thrust: -70.31lbs, Moment: -49.14lbs, Battery Voltage: 26.00V, Current: 2.06A, RPM: 56535
+PWM Percent: 0.00%, Thrust: -0.01lbs, Moment: -0.01lbs, Battery Voltage: 26.02V, Current: 3.07A, RPM: 0
+PWM Percent: -7.14%, Thrust: 0.00lbs, Moment: -0.01lbs, Battery Voltage: 26.00V, Current: 3.07A, RPM: 0
+PWM Percent: 0.00%, Thrust: -71.17lbs, Moment: -51.61lbs, Battery Voltage: 25.97V, Current: 1.89A, RPM: 56085
+PWM Percent: 0.00%, Thrust: -70.46lbs, Moment: -53.33lbs, Battery Voltage: 26.00V, Current: 6.45A, RPM: 56175
+PWM Percent: 0.00%, Thrust: -72.94lbs, Moment: -51.53lbs, Battery Voltage: 25.94V, Current: 10.34A, RPM: 56325
+PWM Percent: 0.00%, Thrust: -70.02lbs, Moment: -50.58lbs, Battery Voltage: 25.97V, Current: 1.47A, RPM: 56070
+PWM Percent: 0.00%, Thrust: -63.12lbs, Moment: -45.12lbs, Battery Voltage: 25.91V, Current: 4.76A, RPM: 56100
+PWM Percent: 0.00%, Thrust: -65.61lbs, Moment: -46.52lbs, Battery Voltage: 25.97V, Current: 6.62A, RPM: 55785
+PWM Percent: 0.00%, Thrust: -116.13lbs, Moment: -85.96lbs, Battery Voltage: 25.91V, Current: 1.47A, RPM: 56265
+PWM Percent: 0.00%, Thrust: -67.53lbs, Moment: -49.24lbs, Battery Voltage: 25.91V, Current: 1.64A, RPM: 55980
+PWM Percent: 0.00%, Thrust: -65.87lbs, Moment: -43.92lbs, Battery Voltage: 25.91V, Current: 1.72A, RPM: 56565
+PWM Percent: 0.00%, Thrust: -0.01lbs, Moment: -0.00lbs, Battery Voltage: 26.08V, Current: 6.11A, RPM: 56655
+PWM Percent: 0.00%, Thrust: -39.96lbs, Moment: -40.21lbs, Battery Voltage: 25.97V, Current: 12.95A, RPM: 56250
+PWM Percent: 0.00%, Thrust: -78.73lbs, Moment: -54.19lbs, Battery Voltage: 25.97V, Current: 13.80A, RPM: 56550
+PWM Percent: 0.00%, Thrust: -69.67lbs, Moment: -49.86lbs, Battery Voltage: 25.97V, Current: 3.16A, RPM: 56115
+PWM Percent: 0.00%, Thrust: -71.06lbs, Moment: -50.84lbs, Battery Voltage: 25.97V, Current: 13.97A, RPM: 56475
+PWM Percent: 0.00%, Thrust: -67.61lbs, Moment: -48.50lbs, Battery Voltage: 25.91V, Current: 1.81A, RPM: 56220
+PWM Percent: 0.00%, Thrust: -63.27lbs, Moment: -45.26lbs, Battery Voltage: 25.97V, Current: 6.62A, RPM: 56310
+PWM Percent: 0.00%, Thrust: -70.73lbs, Moment: -50.32lbs, Battery Voltage: 25.91V, Current: 1.47A, RPM: 56160
+PWM Percent: 0.00%, Thrust: -69.02lbs, Moment: -50.28lbs, Battery Voltage: 25.94V, Current: 6.70A, RPM: 56490
+PWM Percent: 0.00%, Thrust: -68.22lbs, Moment: -51.58lbs, Battery Voltage: 25.94V, Current: 1.72A, RPM: 55920
+PWM Percent: 0.00%, Thrust: -72.14lbs, Moment: -54.33lbs, Battery Voltage: 25.94V, Current: 0.88A, RPM: 56025
+PWM Percent: 0.00%, Thrust: -67.23lbs, Moment: -49.18lbs, Battery Voltage: 25.88V, Current: 5.27A, RPM: 56340
+PWM Percent: 0.00%, Thrust: -78.33lbs, Moment: -53.44lbs, Battery Voltage: 25.97V, Current: 2.06A, RPM: 56115
+PWM Percent: 0.00%, Thrust: -69.71lbs, Moment: -50.56lbs, Battery Voltage: 25.94V, Current: 7.80A, RPM: 56205
+PWM Percent: 0.00%, Thrust: -64.69lbs, Moment: -46.36lbs, Battery Voltage: 25.94V, Current: 2.06A, RPM: 56220
+PWM Percent: 0.00%, Thrust: -68.39lbs, Moment: -49.45lbs, Battery Voltage: 25.94V, Current: 11.52A, RPM: 56355
+PWM Percent: -7.14%, Thrust: -74.69lbs, Moment: -52.67lbs, Battery Voltage: 25.94V, Current: 2.23A, RPM: 55920
+PWM Percent: 0.00%, Thrust: -71.06lbs, Moment: -49.75lbs, Battery Voltage: 25.85V, Current: 4.26A, RPM: 56115
+PWM Percent: 0.00%, Thrust: -0.05lbs, Moment: -0.03lbs, Battery Voltage: 25.97V, Current: 3.07A, RPM: 2175
+PWM Percent: 0.00%, Thrust: -0.06lbs, Moment: -0.03lbs, Battery Voltage: 25.97V, Current: 3.07A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.05lbs, Moment: -0.03lbs, Battery Voltage: 26.00V, Current: 3.07A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.04lbs, Moment: -0.02lbs, Battery Voltage: 26.00V, Current: 3.07A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.03lbs, Moment: -0.03lbs, Battery Voltage: 25.97V, Current: 3.07A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.03lbs, Moment: -0.03lbs, Battery Voltage: 26.00V, Current: 3.07A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.05lbs, Moment: -0.03lbs, Battery Voltage: 26.00V, Current: 3.07A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.13lbs, Moment: -0.03lbs, Battery Voltage: 26.00V, Current: 3.07A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.05lbs, Moment: -0.03lbs, Battery Voltage: 26.00V, Current: 3.07A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.05lbs, Moment: -0.03lbs, Battery Voltage: 26.00V, Current: 3.07A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.05lbs, Moment: -0.02lbs, Battery Voltage: 26.00V, Current: 3.07A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.04lbs, Moment: -0.25lbs, Battery Voltage: 26.00V, Current: 3.07A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.06lbs, Moment: -0.04lbs, Battery Voltage: 26.00V, Current: 3.07A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.01lbs, Moment: -0.01lbs, Battery Voltage: 26.00V, Current: 3.07A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.04lbs, Moment: -0.03lbs, Battery Voltage: 26.00V, Current: 3.07A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.04lbs, Moment: -0.02lbs, Battery Voltage: 26.00V, Current: 3.07A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.02lbs, Moment: -0.03lbs, Battery Voltage: 26.00V, Current: 3.07A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.03lbs, Moment: -0.02lbs, Battery Voltage: 26.00V, Current: 3.07A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.02lbs, Moment: -0.01lbs, Battery Voltage: 26.00V, Current: 3.07A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.03lbs, Moment: -0.03lbs, Battery Voltage: 26.00V, Current: 3.07A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.94lbs, Moment: -1.64lbs, Battery Voltage: 26.00V, Current: 3.07A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.02lbs, Moment: -0.02lbs, Battery Voltage: 26.00V, Current: 3.07A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.02lbs, Moment: -0.01lbs, Battery Voltage: 26.00V, Current: 3.07A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.06lbs, Moment: -0.05lbs, Battery Voltage: 26.00V, Current: 3.07A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.36lbs, Moment: -0.63lbs, Battery Voltage: 26.00V, Current: 3.07A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.05lbs, Moment: -0.04lbs, Battery Voltage: 26.00V, Current: 3.07A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.03lbs, Moment: -0.02lbs, Battery Voltage: 26.00V, Current: 3.07A, RPM: 0
+PWM Percent: 0.00%, Thrust: -5.07lbs, Moment: -2.42lbs, Battery Voltage: 26.00V, Current: 3.07A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.03lbs, Moment: -0.02lbs, Battery Voltage: 26.00V, Current: 3.07A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.02lbs, Moment: -0.01lbs, Battery Voltage: 26.00V, Current: 3.07A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.06lbs, Moment: -0.04lbs, Battery Voltage: 26.00V, Current: 3.07A, RPM: 0
+PWM Percent: 0.00%, Thrust: -3.00lbs, Moment: -2.06lbs, Battery Voltage: 26.00V, Current: 3.07A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.12lbs, Moment: -0.03lbs, Battery Voltage: 26.00V, Current: 3.07A, RPM: 0
+PWM Percent: 0.00%, Thrust: -1.09lbs, Moment: -3.41lbs, Battery Voltage: 26.00V, Current: 3.07A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.84lbs, Moment: -0.34lbs, Battery Voltage: 26.00V, Current: 3.07A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.35lbs, Moment: -1.66lbs, Battery Voltage: 26.00V, Current: 3.07A, RPM: 0
+PWM Percent: 0.00%, Thrust: -4.73lbs, Moment: -3.76lbs, Battery Voltage: 26.00V, Current: 3.07A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.99lbs, Moment: -0.81lbs, Battery Voltage: 26.00V, Current: 3.07A, RPM: 0
+PWM Percent: 0.00%, Thrust: -5.76lbs, Moment: -4.98lbs, Battery Voltage: 26.00V, Current: 3.07A, RPM: 0
+PWM Percent: 0.00%, Thrust: -3.44lbs, Moment: -2.82lbs, Battery Voltage: 26.00V, Current: 2.99A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.29lbs, Moment: -0.16lbs, Battery Voltage: 25.97V, Current: 3.07A, RPM: 0
+PWM Percent: 0.00%, Thrust: -4.97lbs, Moment: -3.57lbs, Battery Voltage: 26.00V, Current: 3.07A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.07lbs, Moment: -0.72lbs, Battery Voltage: 26.00V, Current: 3.07A, RPM: 0
+PWM Percent: 0.00%, Thrust: -11.92lbs, Moment: -9.97lbs, Battery Voltage: 25.97V, Current: 3.07A, RPM: 0
+PWM Percent: 0.00%, Thrust: -1.32lbs, Moment: -0.41lbs, Battery Voltage: 26.00V, Current: 3.07A, RPM: 0
+PWM Percent: 0.00%, Thrust: -16.00lbs, Moment: -10.14lbs, Battery Voltage: 25.97V, Current: 3.07A, RPM: 0
+PWM Percent: 0.00%, Thrust: -5.49lbs, Moment: -3.96lbs, Battery Voltage: 26.00V, Current: 3.07A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.81lbs, Moment: -0.58lbs, Battery Voltage: 26.00V, Current: 3.07A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.78lbs, Moment: -0.56lbs, Battery Voltage: 26.00V, Current: 2.99A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.70lbs, Moment: -0.50lbs, Battery Voltage: 26.00V, Current: 3.07A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.89lbs, Moment: -0.58lbs, Battery Voltage: 25.97V, Current: 3.07A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.03lbs, Moment: -0.01lbs, Battery Voltage: 26.00V, Current: 3.07A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.02lbs, Moment: -0.00lbs, Battery Voltage: 26.00V, Current: 3.07A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.03lbs, Moment: -0.02lbs, Battery Voltage: 26.00V, Current: 3.07A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.05lbs, Moment: -0.03lbs, Battery Voltage: 26.00V, Current: 3.07A, RPM: 0
+PWM Percent: 0.00%, Thrust: -6.65lbs, Moment: -2.33lbs, Battery Voltage: 26.00V, Current: 3.07A, RPM: 0
+PWM Percent: 0.00%, Thrust: -8.22lbs, Moment: -5.34lbs, Battery Voltage: 26.00V, Current: 3.07A, RPM: 0
+PWM Percent: 0.00%, Thrust: -1.23lbs, Moment: -0.34lbs, Battery Voltage: 26.00V, Current: 3.07A, RPM: 0
+PWM Percent: 0.00%, Thrust: -5.00lbs, Moment: -2.85lbs, Battery Voltage: 26.00V, Current: 3.07A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.10lbs, Moment: -0.35lbs, Battery Voltage: 26.00V, Current: 3.07A, RPM: 0
+PWM Percent: 0.00%, Thrust: -1.74lbs, Moment: -0.47lbs, Battery Voltage: 26.00V, Current: 3.07A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.01lbs, Moment: -0.01lbs, Battery Voltage: 26.00V, Current: 3.07A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.03lbs, Moment: -0.02lbs, Battery Voltage: 26.00V, Current: 3.07A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.02lbs, Moment: -0.04lbs, Battery Voltage: 26.00V, Current: 3.07A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.01lbs, Moment: -0.01lbs, Battery Voltage: 26.00V, Current: 3.07A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.03lbs, Moment: -0.03lbs, Battery Voltage: 26.00V, Current: 3.07A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.03lbs, Moment: -0.02lbs, Battery Voltage: 26.00V, Current: 3.07A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.05lbs, Moment: -0.04lbs, Battery Voltage: 26.00V, Current: 3.07A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.04lbs, Moment: -0.02lbs, Battery Voltage: 26.00V, Current: 3.07A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.00lbs, Moment: -0.02lbs, Battery Voltage: 26.00V, Current: 3.07A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.02lbs, Moment: -0.01lbs, Battery Voltage: 26.00V, Current: 3.07A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.01lbs, Moment: -0.00lbs, Battery Voltage: 26.00V, Current: 3.07A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.03lbs, Moment: -0.04lbs, Battery Voltage: 26.00V, Current: 3.07A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.04lbs, Moment: -0.03lbs, Battery Voltage: 26.00V, Current: 3.07A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.03lbs, Moment: -0.02lbs, Battery Voltage: 26.00V, Current: 3.07A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.04lbs, Moment: -0.02lbs, Battery Voltage: 26.02V, Current: 3.07A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.03lbs, Moment: -0.01lbs, Battery Voltage: 26.02V, Current: 3.07A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.02lbs, Moment: -0.01lbs, Battery Voltage: 26.00V, Current: 3.07A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.03lbs, Moment: -0.03lbs, Battery Voltage: 26.00V, Current: 3.07A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.25lbs, Moment: -0.12lbs, Battery Voltage: 26.00V, Current: 3.07A, RPM: 0
+PWM Percent: 0.00%, Thrust: -3.73lbs, Moment: -2.58lbs, Battery Voltage: 25.97V, Current: 2.99A, RPM: 0
+PWM Percent: 0.00%, Thrust: -1.70lbs, Moment: -1.40lbs, Battery Voltage: 25.97V, Current: 2.99A, RPM: 0
+PWM Percent: 0.00%, Thrust: -1.41lbs, Moment: -1.08lbs, Battery Voltage: 25.97V, Current: 2.99A, RPM: 0
+PWM Percent: 0.00%, Thrust: -1.41lbs, Moment: -1.08lbs, Battery Voltage: 25.97V, Current: 2.99A, RPM: 0
+PWM Percent: 0.00%, Thrust: -1.44lbs, Moment: -0.97lbs, Battery Voltage: 25.97V, Current: 2.99A, RPM: 0
+PWM Percent: 0.00%, Thrust: -1.53lbs, Moment: -1.08lbs, Battery Voltage: 25.97V, Current: 2.99A, RPM: 0
+PWM Percent: 0.00%, Thrust: -1.64lbs, Moment: -1.19lbs, Battery Voltage: 25.97V, Current: 2.99A, RPM: 0
+PWM Percent: 0.00%, Thrust: -1.56lbs, Moment: -1.14lbs, Battery Voltage: 25.97V, Current: 2.99A, RPM: 0
+PWM Percent: 0.00%, Thrust: -1.50lbs, Moment: -1.08lbs, Battery Voltage: 25.97V, Current: 2.99A, RPM: 0
+PWM Percent: 0.00%, Thrust: -1.57lbs, Moment: -1.12lbs, Battery Voltage: 25.97V, Current: 2.99A, RPM: 0
+PWM Percent: 0.00%, Thrust: -1.56lbs, Moment: -1.15lbs, Battery Voltage: 25.97V, Current: 2.99A, RPM: 0
+PWM Percent: 0.00%, Thrust: -8.56lbs, Moment: -5.61lbs, Battery Voltage: 25.97V, Current: 2.99A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.02lbs, Moment: -0.03lbs, Battery Voltage: 25.97V, Current: 2.99A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.52lbs, Moment: -0.48lbs, Battery Voltage: 25.97V, Current: 2.99A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.85lbs, Moment: -0.59lbs, Battery Voltage: 25.97V, Current: 2.99A, RPM: 0
+PWM Percent: 0.00%, Thrust: -1.03lbs, Moment: -0.78lbs, Battery Voltage: 25.97V, Current: 2.99A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.91lbs, Moment: -0.61lbs, Battery Voltage: 25.97V, Current: 2.99A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.82lbs, Moment: -0.54lbs, Battery Voltage: 25.97V, Current: 2.99A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.86lbs, Moment: -0.63lbs, Battery Voltage: 25.94V, Current: 2.99A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.96lbs, Moment: -0.76lbs, Battery Voltage: 25.94V, Current: 2.99A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.78lbs, Moment: -0.57lbs, Battery Voltage: 25.97V, Current: 2.99A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.85lbs, Moment: -0.51lbs, Battery Voltage: 25.97V, Current: 2.99A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.95lbs, Moment: -0.75lbs, Battery Voltage: 25.97V, Current: 2.99A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.77lbs, Moment: -0.63lbs, Battery Voltage: 25.94V, Current: 2.99A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.85lbs, Moment: -0.54lbs, Battery Voltage: 25.94V, Current: 2.99A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.89lbs, Moment: -0.61lbs, Battery Voltage: 25.94V, Current: 2.99A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.84lbs, Moment: -0.64lbs, Battery Voltage: 25.97V, Current: 2.99A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.77lbs, Moment: -0.58lbs, Battery Voltage: 25.97V, Current: 2.99A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.92lbs, Moment: -0.60lbs, Battery Voltage: 25.94V, Current: 2.99A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.95lbs, Moment: -0.66lbs, Battery Voltage: 25.97V, Current: 2.99A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.72lbs, Moment: -0.57lbs, Battery Voltage: 25.97V, Current: 2.99A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.81lbs, Moment: -0.55lbs, Battery Voltage: 25.97V, Current: 2.99A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.97lbs, Moment: -0.68lbs, Battery Voltage: 25.97V, Current: 2.99A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.79lbs, Moment: -0.59lbs, Battery Voltage: 25.97V, Current: 2.99A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.77lbs, Moment: -0.56lbs, Battery Voltage: 25.94V, Current: 2.99A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.86lbs, Moment: -0.61lbs, Battery Voltage: 25.97V, Current: 2.99A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.92lbs, Moment: -0.65lbs, Battery Voltage: 25.97V, Current: 2.99A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.79lbs, Moment: -0.57lbs, Battery Voltage: 25.97V, Current: 2.99A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.79lbs, Moment: -0.54lbs, Battery Voltage: 25.97V, Current: 2.99A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.92lbs, Moment: -0.68lbs, Battery Voltage: 25.97V, Current: 2.99A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.75lbs, Moment: -0.55lbs, Battery Voltage: 25.97V, Current: 2.99A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.77lbs, Moment: -0.53lbs, Battery Voltage: 25.94V, Current: 2.99A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.85lbs, Moment: -0.62lbs, Battery Voltage: 25.94V, Current: 2.99A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.79lbs, Moment: -0.59lbs, Battery Voltage: 25.94V, Current: 2.99A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.77lbs, Moment: -0.53lbs, Battery Voltage: 25.97V, Current: 2.99A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.79lbs, Moment: -0.54lbs, Battery Voltage: 25.97V, Current: 2.99A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.84lbs, Moment: -0.61lbs, Battery Voltage: 25.97V, Current: 2.99A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.74lbs, Moment: -0.54lbs, Battery Voltage: 25.97V, Current: 2.99A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.78lbs, Moment: -0.53lbs, Battery Voltage: 25.97V, Current: 2.99A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.81lbs, Moment: -0.57lbs, Battery Voltage: 25.94V, Current: 2.99A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.71lbs, Moment: -0.54lbs, Battery Voltage: 25.94V, Current: 2.99A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.76lbs, Moment: -0.53lbs, Battery Voltage: 25.97V, Current: 2.99A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.80lbs, Moment: -0.56lbs, Battery Voltage: 25.94V, Current: 2.99A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.73lbs, Moment: -0.54lbs, Battery Voltage: 25.94V, Current: 2.99A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.70lbs, Moment: -0.52lbs, Battery Voltage: 25.94V, Current: 2.99A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.76lbs, Moment: -0.49lbs, Battery Voltage: 25.97V, Current: 2.99A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.80lbs, Moment: -0.58lbs, Battery Voltage: 25.97V, Current: 2.99A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.65lbs, Moment: -0.51lbs, Battery Voltage: 25.94V, Current: 2.99A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.69lbs, Moment: -0.48lbs, Battery Voltage: 25.97V, Current: 2.99A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.78lbs, Moment: -0.56lbs, Battery Voltage: 25.94V, Current: 2.99A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.72lbs, Moment: -0.51lbs, Battery Voltage: 25.97V, Current: 2.99A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.68lbs, Moment: -0.49lbs, Battery Voltage: 25.94V, Current: 2.99A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.73lbs, Moment: -0.51lbs, Battery Voltage: 25.97V, Current: 2.99A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.71lbs, Moment: -0.52lbs, Battery Voltage: 25.97V, Current: 2.99A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.78lbs, Moment: -0.58lbs, Battery Voltage: 25.94V, Current: 2.99A, RPM: 0
+PWM Percent: 0.00%, Thrust: -85.92lbs, Moment: -62.72lbs, Battery Voltage: 25.94V, Current: 2.31A, RPM: 55545
+PWM Percent: 0.00%, Thrust: 0.01lbs, Moment: 0.02lbs, Battery Voltage: 25.94V, Current: 2.90A, RPM: 3660
+PWM Percent: 0.00%, Thrust: -0.75lbs, Moment: -0.06lbs, Battery Voltage: 25.94V, Current: 2.90A, RPM: 0
+PWM Percent: 0.00%, Thrust: -45.67lbs, Moment: -33.25lbs, Battery Voltage: 25.94V, Current: 2.99A, RPM: 0
+PWM Percent: 0.00%, Thrust: -40.20lbs, Moment: -30.66lbs, Battery Voltage: 25.94V, Current: 2.99A, RPM: 0
+PWM Percent: 0.00%, Thrust: -24.44lbs, Moment: -15.74lbs, Battery Voltage: 25.94V, Current: 2.82A, RPM: 57165
+PWM Percent: 0.00%, Thrust: -73.14lbs, Moment: -53.26lbs, Battery Voltage: 25.85V, Current: 11.77A, RPM: 56685
+PWM Percent: 0.00%, Thrust: -71.33lbs, Moment: -53.35lbs, Battery Voltage: 25.80V, Current: 3.50A, RPM: 56355
+PWM Percent: 0.00%, Thrust: -71.83lbs, Moment: -49.79lbs, Battery Voltage: 25.85V, Current: 10.51A, RPM: 56070
+PWM Percent: 0.00%, Thrust: -69.44lbs, Moment: -50.65lbs, Battery Voltage: 25.91V, Current: 5.44A, RPM: 56580
+PWM Percent: 0.00%, Thrust: -75.69lbs, Moment: -52.77lbs, Battery Voltage: 25.91V, Current: 7.89A, RPM: 56385
+PWM Percent: 0.00%, Thrust: -88.49lbs, Moment: -65.14lbs, Battery Voltage: 25.88V, Current: 2.31A, RPM: 56025
+PWM Percent: 0.00%, Thrust: -87.25lbs, Moment: -60.72lbs, Battery Voltage: 25.88V, Current: 5.35A, RPM: 56535
+PWM Percent: 0.00%, Thrust: -79.77lbs, Moment: -52.87lbs, Battery Voltage: 25.88V, Current: 6.37A, RPM: 55965
+PWM Percent: 0.00%, Thrust: -77.61lbs, Moment: -55.22lbs, Battery Voltage: 25.88V, Current: 3.66A, RPM: 56190
+PWM Percent: 0.00%, Thrust: -67.79lbs, Moment: -48.68lbs, Battery Voltage: 25.85V, Current: 0.96A, RPM: 56325
+PWM Percent: 0.00%, Thrust: -75.22lbs, Moment: -56.05lbs, Battery Voltage: 25.88V, Current: 11.35A, RPM: 56670
+PWM Percent: 0.00%, Thrust: -69.71lbs, Moment: -50.67lbs, Battery Voltage: 25.82V, Current: 7.47A, RPM: 56085
+PWM Percent: 0.00%, Thrust: -71.43lbs, Moment: -50.43lbs, Battery Voltage: 25.88V, Current: 1.64A, RPM: 56340
+PWM Percent: 0.00%, Thrust: -68.29lbs, Moment: -51.75lbs, Battery Voltage: 25.85V, Current: 14.05A, RPM: 56370
+PWM Percent: 0.00%, Thrust: -72.55lbs, Moment: -51.13lbs, Battery Voltage: 25.88V, Current: 2.31A, RPM: 56070
+PWM Percent: 0.00%, Thrust: -71.46lbs, Moment: -53.54lbs, Battery Voltage: 25.85V, Current: 1.81A, RPM: 56505
+PWM Percent: 0.00%, Thrust: 0.01lbs, Moment: 0.01lbs, Battery Voltage: 25.88V, Current: 2.99A, RPM: 0
+PWM Percent: 0.00%, Thrust: -78.47lbs, Moment: -54.45lbs, Battery Voltage: 25.85V, Current: 1.47A, RPM: 40335
+PWM Percent: 0.00%, Thrust: -28.84lbs, Moment: -20.01lbs, Battery Voltage: 25.88V, Current: 2.90A, RPM: 0
+PWM Percent: 0.00%, Thrust: -23.05lbs, Moment: -15.93lbs, Battery Voltage: 25.91V, Current: 2.99A, RPM: 0
+PWM Percent: 0.00%, Thrust: -34.29lbs, Moment: -27.01lbs, Battery Voltage: 25.91V, Current: 2.99A, RPM: 0
+PWM Percent: 0.00%, Thrust: -1.40lbs, Moment: -0.32lbs, Battery Voltage: 25.91V, Current: 2.90A, RPM: 0
+PWM Percent: 0.00%, Thrust: -3.07lbs, Moment: -2.09lbs, Battery Voltage: 25.91V, Current: 2.90A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.91lbs, Moment: -0.97lbs, Battery Voltage: 25.91V, Current: 2.99A, RPM: 0
+PWM Percent: 0.00%, Thrust: -1.31lbs, Moment: -0.41lbs, Battery Voltage: 25.91V, Current: 2.99A, RPM: 0
+PWM Percent: 0.00%, Thrust: -2.29lbs, Moment: -1.74lbs, Battery Voltage: 25.91V, Current: 2.99A, RPM: 0
+PWM Percent: 0.00%, Thrust: -1.69lbs, Moment: -1.38lbs, Battery Voltage: 25.94V, Current: 2.99A, RPM: 0
+PWM Percent: 0.00%, Thrust: -1.15lbs, Moment: -0.83lbs, Battery Voltage: 25.91V, Current: 2.99A, RPM: 0
+PWM Percent: 0.00%, Thrust: -2.18lbs, Moment: -1.40lbs, Battery Voltage: 25.91V, Current: 2.99A, RPM: 0
+PWM Percent: 0.00%, Thrust: -2.14lbs, Moment: -1.78lbs, Battery Voltage: 25.91V, Current: 2.99A, RPM: 0
+PWM Percent: 0.00%, Thrust: -1.09lbs, Moment: -0.86lbs, Battery Voltage: 25.94V, Current: 2.99A, RPM: 0
+PWM Percent: 0.00%, Thrust: -2.30lbs, Moment: -1.34lbs, Battery Voltage: 25.91V, Current: 2.99A, RPM: 0
+PWM Percent: 0.00%, Thrust: -2.04lbs, Moment: -1.65lbs, Battery Voltage: 25.91V, Current: 2.99A, RPM: 0
+PWM Percent: 0.00%, Thrust: -1.34lbs, Moment: -0.97lbs, Battery Voltage: 25.94V, Current: 2.99A, RPM: 0
+PWM Percent: 0.00%, Thrust: -1.99lbs, Moment: -1.25lbs, Battery Voltage: 25.94V, Current: 2.99A, RPM: 0
+PWM Percent: 0.00%, Thrust: -2.10lbs, Moment: -1.50lbs, Battery Voltage: 25.94V, Current: 2.99A, RPM: 0
+PWM Percent: 0.00%, Thrust: -1.49lbs, Moment: -1.20lbs, Battery Voltage: 25.94V, Current: 2.99A, RPM: 0
+PWM Percent: 0.00%, Thrust: -1.63lbs, Moment: -1.05lbs, Battery Voltage: 25.94V, Current: 2.99A, RPM: 0
+PWM Percent: 0.00%, Thrust: -2.21lbs, Moment: -1.55lbs, Battery Voltage: 25.94V, Current: 2.99A, RPM: 0
+PWM Percent: 0.00%, Thrust: -1.56lbs, Moment: -1.34lbs, Battery Voltage: 25.94V, Current: 2.99A, RPM: 0
+PWM Percent: 0.00%, Thrust: -1.57lbs, Moment: -1.00lbs, Battery Voltage: 25.94V, Current: 2.99A, RPM: 0
+PWM Percent: 0.00%, Thrust: -2.13lbs, Moment: -1.47lbs, Battery Voltage: 25.94V, Current: 2.99A, RPM: 0
+PWM Percent: 0.00%, Thrust: -1.71lbs, Moment: -1.37lbs, Battery Voltage: 25.94V, Current: 2.90A, RPM: 0
+PWM Percent: 0.00%, Thrust: -1.58lbs, Moment: -1.12lbs, Battery Voltage: 25.94V, Current: 2.99A, RPM: 0
+PWM Percent: 0.00%, Thrust: -1.89lbs, Moment: -1.27lbs, Battery Voltage: 25.91V, Current: 2.99A, RPM: 0
+PWM Percent: 0.00%, Thrust: -1.87lbs, Moment: -1.39lbs, Battery Voltage: 25.94V, Current: 2.99A, RPM: 0
+PWM Percent: 0.00%, Thrust: -1.50lbs, Moment: -1.16lbs, Battery Voltage: 25.94V, Current: 2.90A, RPM: 0
+PWM Percent: 0.00%, Thrust: -1.75lbs, Moment: -1.16lbs, Battery Voltage: 25.94V, Current: 2.90A, RPM: 0
+PWM Percent: 0.00%, Thrust: -1.91lbs, Moment: -1.41lbs, Battery Voltage: 25.94V, Current: 2.99A, RPM: 0
+PWM Percent: 0.00%, Thrust: -1.56lbs, Moment: -1.20lbs, Battery Voltage: 25.91V, Current: 2.90A, RPM: 0
+PWM Percent: 0.00%, Thrust: -1.70lbs, Moment: -1.15lbs, Battery Voltage: 25.94V, Current: 2.99A, RPM: 0
+PWM Percent: 0.00%, Thrust: -1.84lbs, Moment: -1.32lbs, Battery Voltage: 25.94V, Current: 2.90A, RPM: 0
+PWM Percent: 0.00%, Thrust: -1.69lbs, Moment: -1.26lbs, Battery Voltage: 25.94V, Current: 2.90A, RPM: 0
+PWM Percent: 0.00%, Thrust: -1.61lbs, Moment: -1.13lbs, Battery Voltage: 25.94V, Current: 2.90A, RPM: 0
+PWM Percent: 0.00%, Thrust: -1.75lbs, Moment: -1.21lbs, Battery Voltage: 25.91V, Current: 2.90A, RPM: 0
+PWM Percent: 0.00%, Thrust: -1.74lbs, Moment: -1.30lbs, Battery Voltage: 25.94V, Current: 2.90A, RPM: 0
+PWM Percent: 0.00%, Thrust: -1.55lbs, Moment: -1.16lbs, Battery Voltage: 25.91V, Current: 2.99A, RPM: 0
+PWM Percent: 0.00%, Thrust: -1.71lbs, Moment: -1.18lbs, Battery Voltage: 25.94V, Current: 2.99A, RPM: 0
+PWM Percent: 0.00%, Thrust: -1.77lbs, Moment: -1.29lbs, Battery Voltage: 25.91V, Current: 2.90A, RPM: 0
+PWM Percent: 0.00%, Thrust: -1.58lbs, Moment: -1.17lbs, Battery Voltage: 25.94V, Current: 2.90A, RPM: 0
+PWM Percent: 0.00%, Thrust: -1.65lbs, Moment: -1.15lbs, Battery Voltage: 25.94V, Current: 2.99A, RPM: 0
+PWM Percent: 0.00%, Thrust: -1.73lbs, Moment: -1.23lbs, Battery Voltage: 25.94V, Current: 2.90A, RPM: 0
+PWM Percent: 0.00%, Thrust: -1.63lbs, Moment: -1.21lbs, Battery Voltage: 25.94V, Current: 2.99A, RPM: 0
+PWM Percent: 0.00%, Thrust: -1.57lbs, Moment: -1.13lbs, Battery Voltage: 25.94V, Current: 2.99A, RPM: 0
+PWM Percent: 0.00%, Thrust: -1.68lbs, Moment: -1.18lbs, Battery Voltage: 25.94V, Current: 2.90A, RPM: 0
+PWM Percent: 0.00%, Thrust: -1.68lbs, Moment: -1.23lbs, Battery Voltage: 25.91V, Current: 2.99A, RPM: 0
+PWM Percent: 0.00%, Thrust: -1.51lbs, Moment: -1.12lbs, Battery Voltage: 25.94V, Current: 2.99A, RPM: 0
+PWM Percent: 0.00%, Thrust: -1.60lbs, Moment: -1.12lbs, Battery Voltage: 25.94V, Current: 2.99A, RPM: 0
+PWM Percent: 0.00%, Thrust: -1.66lbs, Moment: -1.20lbs, Battery Voltage: 25.94V, Current: 2.90A, RPM: 0
+PWM Percent: 0.00%, Thrust: -1.54lbs, Moment: -1.12lbs, Battery Voltage: 25.91V, Current: 2.99A, RPM: 0
+PWM Percent: 0.00%, Thrust: -1.56lbs, Moment: -1.10lbs, Battery Voltage: 25.94V, Current: 2.90A, RPM: 0
+PWM Percent: 0.00%, Thrust: -1.63lbs, Moment: -1.16lbs, Battery Voltage: 25.94V, Current: 2.99A, RPM: 0
+PWM Percent: 0.00%, Thrust: -1.60lbs, Moment: -1.16lbs, Battery Voltage: 25.91V, Current: 2.99A, RPM: 0
+PWM Percent: 0.00%, Thrust: -1.53lbs, Moment: -1.09lbs, Battery Voltage: 25.94V, Current: 2.99A, RPM: 0
+PWM Percent: 0.00%, Thrust: -1.62lbs, Moment: -1.14lbs, Battery Voltage: 25.94V, Current: 2.99A, RPM: 0
+PWM Percent: 0.00%, Thrust: -1.63lbs, Moment: -1.19lbs, Battery Voltage: 25.94V, Current: 2.99A, RPM: 0
+PWM Percent: 0.00%, Thrust: -1.52lbs, Moment: -1.09lbs, Battery Voltage: 25.94V, Current: 2.90A, RPM: 0
+PWM Percent: 0.00%, Thrust: -1.57lbs, Moment: -1.10lbs, Battery Voltage: 26.00V, Current: 2.99A, RPM: 0
+PWM Percent: 0.00%, Thrust: -1.62lbs, Moment: -1.17lbs, Battery Voltage: 25.94V, Current: 2.90A, RPM: 0
+PWM Percent: 0.00%, Thrust: -1.52lbs, Moment: -1.12lbs, Battery Voltage: 25.94V, Current: 2.90A, RPM: 0
+PWM Percent: 0.00%, Thrust: -1.52lbs, Moment: -1.10lbs, Battery Voltage: 26.02V, Current: 2.99A, RPM: 0
+PWM Percent: 0.00%, Thrust: -1.59lbs, Moment: -1.13lbs, Battery Voltage: 25.94V, Current: 2.99A, RPM: 0
+PWM Percent: 0.00%, Thrust: -1.56lbs, Moment: -1.14lbs, Battery Voltage: 25.94V, Current: 2.90A, RPM: 0
+PWM Percent: 0.00%, Thrust: -1.47lbs, Moment: -1.07lbs, Battery Voltage: 25.91V, Current: 2.99A, RPM: 0
+PWM Percent: 0.00%, Thrust: -1.55lbs, Moment: -1.10lbs, Battery Voltage: 25.94V, Current: 2.90A, RPM: 0
+PWM Percent: 0.00%, Thrust: -1.56lbs, Moment: -1.13lbs, Battery Voltage: 25.91V, Current: 2.90A, RPM: 0
+PWM Percent: 0.00%, Thrust: -1.46lbs, Moment: -1.08lbs, Battery Voltage: 25.94V, Current: 2.90A, RPM: 0
+PWM Percent: 0.00%, Thrust: -1.47lbs, Moment: -1.05lbs, Battery Voltage: 25.91V, Current: 2.99A, RPM: 0
+PWM Percent: 0.00%, Thrust: -1.52lbs, Moment: -1.10lbs, Battery Voltage: 25.94V, Current: 2.90A, RPM: 0
+PWM Percent: 0.00%, Thrust: -1.50lbs, Moment: -1.09lbs, Battery Voltage: 25.94V, Current: 2.99A, RPM: 0
+PWM Percent: 0.00%, Thrust: -1.48lbs, Moment: -1.07lbs, Battery Voltage: 25.94V, Current: 2.90A, RPM: 0
+PWM Percent: 0.00%, Thrust: -1.51lbs, Moment: -1.07lbs, Battery Voltage: 25.94V, Current: 2.90A, RPM: 0
+PWM Percent: 0.00%, Thrust: -1.50lbs, Moment: -1.08lbs, Battery Voltage: 25.94V, Current: 2.99A, RPM: 0
+PWM Percent: 0.00%, Thrust: -1.42lbs, Moment: -1.03lbs, Battery Voltage: 25.94V, Current: 2.90A, RPM: 0
+PWM Percent: 0.00%, Thrust: -1.48lbs, Moment: -1.05lbs, Battery Voltage: 25.94V, Current: 2.99A, RPM: 0
+PWM Percent: 0.00%, Thrust: -1.51lbs, Moment: -1.08lbs, Battery Voltage: 25.94V, Current: 2.99A, RPM: 0
+PWM Percent: 0.00%, Thrust: -1.43lbs, Moment: -1.05lbs, Battery Voltage: 25.94V, Current: 2.99A, RPM: 0
+PWM Percent: 0.00%, Thrust: -1.46lbs, Moment: -1.05lbs, Battery Voltage: 25.94V, Current: 2.90A, RPM: 0
+PWM Percent: 0.00%, Thrust: -1.49lbs, Moment: -1.08lbs, Battery Voltage: 25.94V, Current: 2.99A, RPM: 0
+PWM Percent: 0.00%, Thrust: -1.47lbs, Moment: -1.08lbs, Battery Voltage: 25.94V, Current: 2.99A, RPM: 0
+PWM Percent: 0.00%, Thrust: -1.46lbs, Moment: -1.05lbs, Battery Voltage: 25.94V, Current: 2.90A, RPM: 0
+PWM Percent: 0.00%, Thrust: -1.50lbs, Moment: -1.07lbs, Battery Voltage: 25.91V, Current: 2.99A, RPM: 0
+PWM Percent: 0.00%, Thrust: -1.49lbs, Moment: -1.10lbs, Battery Voltage: 25.94V, Current: 2.99A, RPM: 0
+PWM Percent: 0.00%, Thrust: -1.45lbs, Moment: -1.04lbs, Battery Voltage: 25.94V, Current: 2.90A, RPM: 0
+PWM Percent: 0.00%, Thrust: -1.49lbs, Moment: -1.05lbs, Battery Voltage: 25.94V, Current: 2.99A, RPM: 0
+PWM Percent: 0.00%, Thrust: -1.47lbs, Moment: -1.07lbs, Battery Voltage: 25.94V, Current: 2.99A, RPM: 0
+PWM Percent: 0.00%, Thrust: -1.45lbs, Moment: -1.06lbs, Battery Voltage: 25.94V, Current: 2.90A, RPM: 0
+PWM Percent: 0.00%, Thrust: -1.43lbs, Moment: -1.05lbs, Battery Voltage: 25.94V, Current: 2.99A, RPM: 0
+PWM Percent: 0.00%, Thrust: -1.48lbs, Moment: -1.06lbs, Battery Voltage: 25.94V, Current: 2.90A, RPM: 0
+PWM Percent: 0.00%, Thrust: -1.44lbs, Moment: -1.06lbs, Battery Voltage: 25.94V, Current: 3.07A, RPM: 0
+PWM Percent: 0.00%, Thrust: -1.41lbs, Moment: -1.02lbs, Battery Voltage: 25.94V, Current: 2.99A, RPM: 0
+PWM Percent: 0.00%, Thrust: -1.47lbs, Moment: -1.05lbs, Battery Voltage: 25.94V, Current: 2.99A, RPM: 0
+PWM Percent: 0.00%, Thrust: -1.48lbs, Moment: -1.08lbs, Battery Voltage: 26.02V, Current: 3.07A, RPM: 0
+PWM Percent: 0.00%, Thrust: -1.41lbs, Moment: -1.02lbs, Battery Voltage: 25.94V, Current: 2.90A, RPM: 0
+PWM Percent: 0.00%, Thrust: -1.44lbs, Moment: -1.03lbs, Battery Voltage: 25.91V, Current: 2.99A, RPM: 0
+PWM Percent: 0.00%, Thrust: -1.44lbs, Moment: -1.03lbs, Battery Voltage: 25.94V, Current: 2.90A, RPM: 0
+PWM Percent: 0.00%, Thrust: -1.53lbs, Moment: -1.11lbs, Battery Voltage: 25.94V, Current: 2.99A, RPM: 0
+PWM Percent: 0.00%, Thrust: -1.49lbs, Moment: -1.07lbs, Battery Voltage: 25.94V, Current: 2.90A, RPM: 0
+PWM Percent: 0.00%, Thrust: -1.54lbs, Moment: -1.11lbs, Battery Voltage: 25.94V, Current: 2.99A, RPM: 0
+PWM Percent: 0.00%, Thrust: -1.51lbs, Moment: -1.11lbs, Battery Voltage: 25.91V, Current: 2.99A, RPM: 0
+PWM Percent: 0.00%, Thrust: -1.47lbs, Moment: -1.08lbs, Battery Voltage: 25.94V, Current: 2.90A, RPM: 0
+PWM Percent: 0.00%, Thrust: -1.51lbs, Moment: -1.09lbs, Battery Voltage: 25.94V, Current: 2.90A, RPM: 0
+PWM Percent: 0.00%, Thrust: -1.49lbs, Moment: -1.07lbs, Battery Voltage: 25.94V, Current: 2.99A, RPM: 0
+=~=~=~=~=~=~=~=~=~=~=~= PuTTY log 2021.12.19 17:09:27 =~=~=~=~=~=~=~=~=~=~=~=
+                                                                                                                                                                                                                                           PWM Percent: 0.00%, Thrust: -0.00lbs, Battery Voltage: 25.94V, Current: 2.99A, RPM: 0
+PWM Percent: 0.00%, Thrust: 0.00lbs, Battery Voltage: 25.94V, Current: 2.99A, RPM: 0
+PWM Percent: 0.00%, Thrust: 0.01lbs, Battery Voltage: 25.94V, Current: 2.99A, RPM: 0
+PWM Percent: 0.00%, Thrust: 0.01lbs, Battery Voltage: 25.94V, Current: 2.99A, RPM: 0
+PWM Percent: 0.00%, Thrust: 0.00lbs, Battery Voltage: 25.91V, Current: 2.90A, RPM: 0
+PWM Percent: 0.00%, Thrust: 0.01lbs, Battery Voltage: 25.94V, Current: 2.99A, RPM: 0
+PWM Percent: 0.00%, Thrust: 0.01lbs, Battery Voltage: 25.94V, Current: 2.99A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.01lbs, Battery Voltage: 25.94V, Current: 3.07A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.00lbs, Battery Voltage: 25.94V, Current: 2.99A, RPM: 0
+PWM Percent: 0.00%, Thrust: 0.69lbs, Battery Voltage: 25.94V, Current: 2.99A, RPM: 0
+PWM Percent: 0.00%, Thrust: 0.80lbs, Battery Voltage: 25.94V, Current: 2.99A, RPM: 0
+PWM Percent: 0.00%, Thrust: 0.80lbs, Battery Voltage: 25.91V, Current: 2.99A, RPM: 0
+PWM Percent: 0.00%, Thrust: 0.77lbs, Battery Voltage: 25.94V, Current: 2.99A, RPM: 0
+PWM Percent: 0.00%, Thrust: 0.77lbs, Battery Voltage: 25.94V, Current: 2.90A, RPM: 0
+PWM Percent: 0.00%, Thrust: -54.02lbs, Battery Voltage: 25.91V, Current: 1.30A, RPM: 0
+PWM Percent: 0.00%, Thrust: -54.14lbs, Battery Voltage: 25.91V, Current: 12.79A, RPM: 0
+PWM Percent: 0.00%, Thrust: -50.22lbs, Battery Voltage: 25.82V, Current: 4.00A, RPM: 0
+PWM Percent: 0.00%, Thrust: -53.06lbs, Battery Voltage: 25.88V, Current: 5.27A, RPM: 0
+PWM Percent: 0.00%, Thrust: -52.76lbs, Battery Voltage: 25.82V, Current: 5.94A, RPM: 0
+PWM Percent: 0.00%, Thrust: -54.45lbs, Battery Voltage: 25.88V, Current: 2.48A, RPM: 0
+PWM Percent: 0.00%, Thrust: -51.99lbs, Battery Voltage: 25.88V, Current: 2.40A, RPM: 0
+PWM Percent: 0.00%, Thrust: -50.39lbs, Battery Voltage: 25.85V, Current: 1.22A, RPM: 0
+PWM Percent: 0.00%, Thrust: -53.00lbs, Battery Voltage: 25.88V, Current: 2.31A, RPM: 0
+PWM Percent: 0.00%, Thrust: -42.96lbs, Battery Voltage: 25.80V, Current: -0.22A, RPM: 0
+PWM Percent: 0.00%, Thrust: -49.32lbs, Battery Voltage: 25.85V, Current: 11.60A, RPM: 0
+PWM Percent: 0.00%, Thrust: -46.23lbs, Battery Voltage: 25.85V, Current: 1.64A, RPM: 0
+PWM Percent: 0.00%, Thrust: -48.00lbs, Battery Voltage: 26.00V, Current: 11.52A, RPM: 0
+PWM Percent: 0.00%, Thrust: 1.06lbs, Battery Voltage: 25.85V, Current: 1.30A, RPM: 0
+PWM Percent: 0.00%, Thrust: 1.05lbs, Battery Voltage: 25.51V, Current: 13.38A, RPM: 0
+PWM Percent: 0.00%, Thrust: -9.27lbs, Battery Voltage: 25.80V, Current: 2.65A, RPM: 0
+PWM Percent: 0.00%, Thrust: 0.21lbs, Battery Voltage: 25.85V, Current: 2.90A, RPM: 0
+PWM Percent: 0.00%, Thrust: -51.19lbs, Battery Voltage: 25.88V, Current: 1.38A, RPM: 0
+PWM Percent: 0.00%, Thrust: -46.48lbs, Battery Voltage: 25.85V, Current: 1.47A, RPM: 0
+PWM Percent: 0.00%, Thrust: -49.05lbs, Battery Voltage: 25.94V, Current: 9.66A, RPM: 0
+PWM Percent: 0.00%, Thrust: -49.95lbs, Battery Voltage: 25.85V, Current: 1.64A, RPM: 0
+PWM Percent: 0.00%, Thrust: -52.20lbs, Battery Voltage: 25.80V, Current: 4.51A, RPM: 0
+PWM Percent: 0.00%, Thrust: -54.33lbs, Battery Voltage: 25.82V, Current: 0.79A, RPM: 0
+PWM Percent: 0.00%, Thrust: -53.55lbs, Battery Voltage: 25.77V, Current: 4.17A, RPM: 0
+PWM Percent: 0.00%, Thrust: -50.57lbs, Battery Voltage: 26.05V, Current: 1.72A, RPM: 0
+PWM Percent: 0.00%, Thrust: -52.74lbs, Battery Voltage: 25.94V, Current: 3.58A, RPM: 0
+PWM Percent: 0.00%, Thrust: -50.07lbs, Battery Voltage: 25.94V, Current: 1.05A, RPM: 0
+PWM Percent: 0.00%, Thrust: -55.34lbs, Battery Voltage: 25.94V, Current: 6.87A, RPM: 0
+PWM Percent: 0.00%, Thrust: -55.56lbs, Battery Voltage: 25.91V, Current: 8.82A, RPM: 0
+PWM Percent: 0.00%, Thrust: -56.01lbs, Battery Voltage: 25.88V, Current: 9.32A, RPM: 0
+PWM Percent: 0.00%, Thrust: -52.94lbs, Battery Voltage: 25.91V, Current: 2.14A, RPM: 0
+PWM Percent: 0.00%, Thrust: -56.30lbs, Battery Voltage: 25.91V, Current: 1.64A, RPM: 0
+PWM Percent: 0.00%, Thrust: -56.33lbs, Battery Voltage: 25.88V, Current: 10.51A, RPM: 0
+PWM Percent: 0.00%, Thrust: -49.85lbs, Battery Voltage: 25.94V, Current: 2.23A, RPM: 0
+PWM Percent: 0.00%, Thrust: 1.03lbs, Battery Voltage: 25.91V, Current: 1.22A, RPM: 0
+PWM Percent: 0.00%, Thrust: -24.00lbs, Battery Voltage: 25.82V, Current: 8.82A, RPM: 0
+PWM Percent: 0.00%, Thrust: 1.03lbs, Battery Voltage: 25.88V, Current: 12.79A, RPM: 0
+PWM Percent: 0.00%, Thrust: 1.02lbs, Battery Voltage: 25.91V, Current: 9.75A, RPM: 0
+PWM Percent: 0.00%, Thrust: 1.00lbs, Battery Voltage: 25.85V, Current: 5.52A, RPM: 0
+PWM Percent: 0.00%, Thrust: 1.02lbs, Battery Voltage: 25.85V, Current: 3.24A, RPM: 0
+PWM Percent: 0.00%, Thrust: -53.39lbs, Battery Voltage: 25.91V, Current: 3.66A, RPM: 0
+PWM Percent: 0.00%, Thrust: -51.66lbs, Battery Voltage: 25.91V, Current: 2.31A, RPM: 0
+PWM Percent: 0.00%, Thrust: -47.49lbs, Battery Voltage: 25.88V, Current: 2.14A, RPM: 0
+PWM Percent: 0.00%, Thrust: -55.23lbs, Battery Voltage: 25.88V, Current: 13.12A, RPM: 0
+PWM Percent: 0.00%, Thrust: -51.86lbs, Battery Voltage: 25.91V, Current: 7.38A, RPM: 0
+PWM Percent: 0.00%, Thrust: -54.40lbs, Battery Voltage: 25.91V, Current: 12.28A, RPM: 0
+PWM Percent: 0.00%, Thrust: -49.86lbs, Battery Voltage: 25.91V, Current: 2.74A, RPM: 0
+PWM Percent: 0.00%, Thrust: -48.18lbs, Battery Voltage: 25.91V, Current: 6.87A, RPM: 0
+PWM Percent: 0.00%, Thrust: -50.14lbs, Battery Voltage: 25.85V, Current: 3.50A, RPM: 0
+PWM Percent: 0.00%, Thrust: -54.49lbs, Battery Voltage: 25.94V, Current: 5.86A, RPM: 0
+PWM Percent: 0.00%, Thrust: -47.72lbs, Battery Voltage: 25.91V, Current: 1.64A, RPM: 0
+PWM Percent: 0.00%, Thrust: -53.42lbs, Battery Voltage: 25.82V, Current: 4.00A, RPM: 0
+PWM Percent: 0.00%, Thrust: -49.68lbs, Battery Voltage: 25.82V, Current: 6.54A, RPM: 0
+PWM Percent: 0.00%, Thrust: -51.03lbs, Battery Voltage: 25.91V, Current: 6.11A, RPM: 0
+PWM Percent: 0.00%, Thrust: -49.93lbs, Battery Voltage: 25.85V, Current: 1.22A, RPM: 0
+PWM Percent: 0.00%, Thrust: -66.05lbs, Battery Voltage: 25.88V, Current: 0.62A, RPM: 56445
+PWM Percent: 0.00%, Thrust: -83.29lbs, Battery Voltage: 25.88V, Current: 11.86A, RPM: 55785
+PWM Percent: 0.00%, Thrust: -68.33lbs, Battery Voltage: 25.97V, Current: 11.60A, RPM: 55860
+PWM Percent: 0.00%, Thrust: -65.65lbs, Battery Voltage: 25.80V, Current: -0.30A, RPM: 56205
+PWM Percent: 0.00%, Thrust: -55.61lbs, Battery Voltage: 25.82V, Current: 0.79A, RPM: 56040
+PWM Percent: 0.00%, Thrust: -64.32lbs, Battery Voltage: 25.71V, Current: 10.67A, RPM: 55740
+PWM Percent: 0.00%, Thrust: -69.78lbs, Battery Voltage: 25.88V, Current: 0.29A, RPM: 56040
+PWM Percent: 0.00%, Thrust: -68.77lbs, Battery Voltage: 25.85V, Current: 2.90A, RPM: 55860
+PWM Percent: 0.00%, Thrust: -70.57lbs, Battery Voltage: 25.82V, Current: 0.62A, RPM: 56145
+PWM Percent: 0.00%, Thrust: -54.20lbs, Battery Voltage: 25.88V, Current: 3.66A, RPM: 56400
+PWM Percent: 0.00%, Thrust: -49.01lbs, Battery Voltage: 25.88V, Current: 0.96A, RPM: 56430
+PWM Percent: 0.00%, Thrust: -49.45lbs, Battery Voltage: 25.88V, Current: 6.54A, RPM: 55980
+PWM Percent: 0.00%, Thrust: -51.52lbs, Battery Voltage: 25.88V, Current: 7.47A, RPM: 56190
+PWM Percent: 0.00%, Thrust: -53.93lbs, Battery Voltage: 25.91V, Current: 4.51A, RPM: 56115
+PWM Percent: 0.00%, Thrust: -51.18lbs, Battery Voltage: 25.80V, Current: 7.13A, RPM: 55950
+PWM Percent: 0.00%, Thrust: -53.13lbs, Battery Voltage: 25.88V, Current: 8.23A, RPM: 56055
+PWM Percent: 0.00%, Thrust: -53.05lbs, Battery Voltage: 25.85V, Current: 1.89A, RPM: 56010
+PWM Percent: 0.00%, Thrust: -47.09lbs, Battery Voltage: 25.82V, Current: 1.81A, RPM: 55785
+PWM Percent: 0.00%, Thrust: -54.64lbs, Battery Voltage: 25.88V, Current: 2.06A, RPM: 56070
+PWM Percent: 0.00%, Thrust: -55.00lbs, Battery Voltage: 25.85V, Current: 1.55A, RPM: 55770
+PWM Percent: 0.00%, Thrust: -53.61lbs, Battery Voltage: 25.82V, Current: 4.00A, RPM: 56010
+PWM Percent: 0.00%, Thrust: -57.10lbs, Battery Voltage: 25.82V, Current: 1.22A, RPM: 55980
+PWM Percent: 0.00%, Thrust: -59.90lbs, Battery Voltage: 25.85V, Current: 13.38A, RPM: 56160
+PWM Percent: 0.00%, Thrust: -62.33lbs, Battery Voltage: 25.88V, Current: 1.72A, RPM: 55905
+PWM Percent: 0.00%, Thrust: -57.71lbs, Battery Voltage: 25.85V, Current: 1.47A, RPM: 56085
+PWM Percent: 0.00%, Thrust: -59.30lbs, Battery Voltage: 25.85V, Current: 16.33A, RPM: 55875
+PWM Percent: 0.00%, Thrust: 0.85lbs, Battery Voltage: 25.88V, Current: 3.07A, RPM: 195
+PWM Percent: 0.00%, Thrust: -0.25lbs, Battery Voltage: 25.88V, Current: 3.07A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.76lbs, Battery Voltage: 25.88V, Current: 3.07A, RPM: 0
+PWM Percent: 0.00%, Thrust: 0.39lbs, Battery Voltage: 25.88V, Current: 3.07A, RPM: 0
+PWM Percent: 0.00%, Thrust: 0.02lbs, Battery Voltage: 25.91V, Current: 2.99A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.44lbs, Battery Voltage: 25.91V, Current: 2.99A, RPM: 0
+PWM Percent: 0.00%, Thrust: 0.08lbs, Battery Voltage: 25.91V, Current: 3.07A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.24lbs, Battery Voltage: 25.91V, Current: 2.99A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.55lbs, Battery Voltage: 25.91V, Current: 2.99A, RPM: 0
+PWM Percent: 0.00%, Thrust: 0.34lbs, Battery Voltage: 25.91V, Current: 3.07A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.31lbs, Battery Voltage: 25.91V, Current: 3.07A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.72lbs, Battery Voltage: 25.94V, Current: 2.99A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.11lbs, Battery Voltage: 25.91V, Current: 3.07A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.24lbs, Battery Voltage: 25.91V, Current: 3.07A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.43lbs, Battery Voltage: 25.91V, Current: 3.07A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.01lbs, Battery Voltage: 25.91V, Current: 3.07A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.38lbs, Battery Voltage: 25.91V, Current: 3.07A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.45lbs, Battery Voltage: 25.91V, Current: 3.07A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.05lbs, Battery Voltage: 25.91V, Current: 2.99A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.31lbs, Battery Voltage: 25.91V, Current: 3.07A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.36lbs, Battery Voltage: 25.94V, Current: 3.07A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.16lbs, Battery Voltage: 25.94V, Current: 3.07A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.29lbs, Battery Voltage: 25.91V, Current: 3.07A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.46lbs, Battery Voltage: 25.91V, Current: 3.07A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.15lbs, Battery Voltage: 25.94V, Current: 2.99A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.33lbs, Battery Voltage: 25.91V, Current: 2.99A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.40lbs, Battery Voltage: 25.91V, Current: 2.99A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.22lbs, Battery Voltage: 25.94V, Current: 2.99A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.29lbs, Battery Voltage: 25.91V, Current: 3.07A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.36lbs, Battery Voltage: 25.94V, Current: 3.07A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.21lbs, Battery Voltage: 25.91V, Current: 3.07A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.25lbs, Battery Voltage: 25.94V, Current: 3.07A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.44lbs, Battery Voltage: 25.91V, Current: 2.99A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.25lbs, Battery Voltage: 25.94V, Current: 3.07A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.29lbs, Battery Voltage: 25.91V, Current: 3.07A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.38lbs, Battery Voltage: 25.94V, Current: 2.99A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.29lbs, Battery Voltage: 25.91V, Current: 2.99A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.27lbs, Battery Voltage: 25.91V, Current: 2.99A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.36lbs, Battery Voltage: 25.91V, Current: 2.99A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.30lbs, Battery Voltage: 25.91V, Current: 3.07A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.22lbs, Battery Voltage: 25.91V, Current: 3.07A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.39lbs, Battery Voltage: 25.91V, Current: 3.07A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.33lbs, Battery Voltage: 25.91V, Current: 3.07A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.28lbs, Battery Voltage: 25.91V, Current: 2.99A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.36lbs, Battery Voltage: 25.91V, Current: 3.07A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.34lbs, Battery Voltage: 25.91V, Current: 2.99A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.27lbs, Battery Voltage: 25.91V, Current: 2.99A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.31lbs, Battery Voltage: 25.94V, Current: 3.07A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.34lbs, Battery Voltage: 25.91V, Current: 2.99A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.23lbs, Battery Voltage: 25.91V, Current: 3.07A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.33lbs, Battery Voltage: 25.94V, Current: 2.99A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.33lbs, Battery Voltage: 25.94V, Current: 3.07A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.26lbs, Battery Voltage: 25.91V, Current: 3.07A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.31lbs, Battery Voltage: 25.91V, Current: 2.99A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.32lbs, Battery Voltage: 25.94V, Current: 3.07A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.28lbs, Battery Voltage: 25.91V, Current: 2.99A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.27lbs, Battery Voltage: 25.91V, Current: 2.99A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.34lbs, Battery Voltage: 25.94V, Current: 2.99A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.24lbs, Battery Voltage: 25.94V, Current: 2.99A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.27lbs, Battery Voltage: 25.94V, Current: 3.07A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.33lbs, Battery Voltage: 25.91V, Current: 2.99A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.27lbs, Battery Voltage: 25.94V, Current: 3.07A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.27lbs, Battery Voltage: 25.91V, Current: 2.99A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.33lbs, Battery Voltage: 25.88V, Current: 2.99A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.15lbs, Battery Voltage: 25.88V, Current: 2.90A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.11lbs, Battery Voltage: 25.88V, Current: 2.90A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.22lbs, Battery Voltage: 25.88V, Current: 2.99A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.15lbs, Battery Voltage: 25.88V, Current: 2.99A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.13lbs, Battery Voltage: 25.88V, Current: 2.99A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.18lbs, Battery Voltage: 25.88V, Current: 2.90A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.20lbs, Battery Voltage: 25.88V, Current: 2.99A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.14lbs, Battery Voltage: 25.88V, Current: 2.99A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.19lbs, Battery Voltage: 25.88V, Current: 2.99A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.19lbs, Battery Voltage: 25.88V, Current: 2.99A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.15lbs, Battery Voltage: 25.88V, Current: 2.99A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.19lbs, Battery Voltage: 25.88V, Current: 2.99A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.19lbs, Battery Voltage: 25.88V, Current: 2.99A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.15lbs, Battery Voltage: 25.88V, Current: 2.99A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.17lbs, Battery Voltage: 25.88V, Current: 2.90A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.20lbs, Battery Voltage: 25.88V, Current: 2.99A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.17lbs, Battery Voltage: 25.88V, Current: 2.99A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.17lbs, Battery Voltage: 25.88V, Current: 2.99A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.20lbs, Battery Voltage: 25.88V, Current: 2.99A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.15lbs, Battery Voltage: 25.88V, Current: 2.99A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.17lbs, Battery Voltage: 25.88V, Current: 2.99A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.18lbs, Battery Voltage: 25.91V, Current: 2.99A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.16lbs, Battery Voltage: 25.91V, Current: 2.99A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.17lbs, Battery Voltage: 25.88V, Current: 2.99A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.21lbs, Battery Voltage: 25.88V, Current: 2.99A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.17lbs, Battery Voltage: 25.91V, Current: 2.99A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.17lbs, Battery Voltage: 25.88V, Current: 2.99A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.20lbs, Battery Voltage: 25.88V, Current: 2.99A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.17lbs, Battery Voltage: 25.88V, Current: 2.99A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.17lbs, Battery Voltage: 25.88V, Current: 2.99A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.19lbs, Battery Voltage: 25.88V, Current: 2.99A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.19lbs, Battery Voltage: 25.88V, Current: 2.99A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.15lbs, Battery Voltage: 25.88V, Current: 2.90A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.18lbs, Battery Voltage: 25.88V, Current: 2.90A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.17lbs, Battery Voltage: 25.88V, Current: 2.65A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.16lbs, Battery Voltage: 25.88V, Current: 2.48A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.17lbs, Battery Voltage: 25.88V, Current: 2.74A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.20lbs, Battery Voltage: 25.88V, Current: 2.74A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.18lbs, Battery Voltage: 25.88V, Current: 2.90A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.20lbs, Battery Voltage: 25.88V, Current: 2.90A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.21lbs, Battery Voltage: 25.88V, Current: 2.90A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.18lbs, Battery Voltage: 25.88V, Current: 2.90A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.19lbs, Battery Voltage: 25.88V, Current: 2.90A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.20lbs, Battery Voltage: 25.88V, Current: 2.90A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.16lbs, Battery Voltage: 25.88V, Current: 2.90A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.16lbs, Battery Voltage: 25.88V, Current: 2.90A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.20lbs, Battery Voltage: 25.88V, Current: 2.90A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.17lbs, Battery Voltage: 25.88V, Current: 2.90A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.15lbs, Battery Voltage: 25.88V, Current: 2.90A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.18lbs, Battery Voltage: 25.88V, Current: 2.90A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.16lbs, Battery Voltage: 25.88V, Current: 2.90A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.15lbs, Battery Voltage: 25.88V, Current: 2.90A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.14lbs, Battery Voltage: 25.88V, Current: 2.90A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.15lbs, Battery Voltage: 25.88V, Current: 2.90A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.13lbs, Battery Voltage: 25.88V, Current: 2.90A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.15lbs, Battery Voltage: 25.88V, Current: 2.90A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.15lbs, Battery Voltage: 25.88V, Current: 2.90A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.14lbs, Battery Voltage: 25.88V, Current: 2.90A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.13lbs, Battery Voltage: 25.88V, Current: 2.90A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.13lbs, Battery Voltage: 25.88V, Current: 2.90A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.14lbs, Battery Voltage: 25.88V, Current: 2.90A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.15lbs, Battery Voltage: 25.88V, Current: 2.90A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.13lbs, Battery Voltage: 25.88V, Current: 2.82A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.11lbs, Battery Voltage: 25.88V, Current: 2.74A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.13lbs, Battery Voltage: 25.88V, Current: 2.40A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.10lbs, Battery Voltage: 25.88V, Current: 2.90A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.12lbs, Battery Voltage: 25.88V, Current: 2.90A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.11lbs, Battery Voltage: 25.88V, Current: 2.90A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.14lbs, Battery Voltage: 25.88V, Current: 2.90A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.09lbs, Battery Voltage: 25.88V, Current: 2.90A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.11lbs, Battery Voltage: 25.88V, Current: 2.82A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.12lbs, Battery Voltage: 25.88V, Current: 2.82A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.09lbs, Battery Voltage: 25.88V, Current: 2.90A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.10lbs, Battery Voltage: 25.88V, Current: 2.82A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.11lbs, Battery Voltage: 25.88V, Current: 2.82A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.09lbs, Battery Voltage: 25.88V, Current: 2.90A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.08lbs, Battery Voltage: 25.88V, Current: 2.90A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.07lbs, Battery Voltage: 25.88V, Current: 2.90A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.07lbs, Battery Voltage: 26.02V, Current: 3.07A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.07lbs, Battery Voltage: 26.00V, Current: 3.07A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.11lbs, Battery Voltage: 25.97V, Current: 3.07A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.10lbs, Battery Voltage: 25.97V, Current: 2.99A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.08lbs, Battery Voltage: 25.97V, Current: 2.99A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.07lbs, Battery Voltage: 25.97V, Current: 2.99A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.06lbs, Battery Voltage: 25.97V, Current: 3.07A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.07lbs, Battery Voltage: 25.97V, Current: 2.99A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.06lbs, Battery Voltage: 25.97V, Current: 2.99A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.05lbs, Battery Voltage: 25.97V, Current: 3.07A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.05lbs, Battery Voltage: 25.94V, Current: 2.99A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.06lbs, Battery Voltage: 25.97V, Current: 2.99A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.06lbs, Battery Voltage: 25.97V, Current: 2.99A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.03lbs, Battery Voltage: 25.97V, Current: 2.99A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.07lbs, Battery Voltage: 25.97V, Current: 2.99A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.06lbs, Battery Voltage: 25.94V, Current: 2.99A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.05lbs, Battery Voltage: 25.97V, Current: 2.99A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.04lbs, Battery Voltage: 25.97V, Current: 2.99A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.06lbs, Battery Voltage: 25.97V, Current: 2.99A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.04lbs, Battery Voltage: 25.97V, Current: 2.99A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.04lbs, Battery Voltage: 25.97V, Current: 2.99A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.03lbs, Battery Voltage: 25.97V, Current: 2.99A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.03lbs, Battery Voltage: 25.97V, Current: 2.99A, RPM: 0
+PWM Percent: 0.00%, Thrust: -0.37lbs, Battery Voltage: 25.97V, Current: 2.99A, RPM: 0
+PWM Percent: 0.00%, Thrust: -1.45lbs, Battery Voltage: 25.97V, Current: 2.99A, RPM: 0
+PWM Percent: 0.00%, Thrust: -8.49lbs, Battery Voltage: 25.97V, Current: 2.99A, RPM: 0
+PWM Percent: 0.00%, Thrust: 0.58lbs, Battery Voltage: 25.97V, Current: 2.99A, RPM: 0
+PWM Percent: 0.00%, Thrust: -7.35lbs, Battery Voltage: 25.97V, Current: 2.99A, RPM: 0
+PWM Percent: 0.00%, Thrust: -2.71lbs, Battery Voltage: 25.97V, Current: 2.99A, RPM: 0
+PWM Percent: 0.00%, Thrust: 0.75lbs, Battery Voltage: 25.97V, Current: 2.99A, RPM: 0
+PWM Percent: 0.00%, Thrust: 0.70lbs, Battery Voltage: 25.97V, Current: 2.99A, RPM: 0
+PWM Percent: 0.00%, Thrust: 0.68lbs, Battery Voltage: 25.97V, Current: 2.99A, RPM: 0
+PWM Percent: 0.00%, Thrust: 0.71lbs, Battery Voltage: 25.97V, Current: 2.99A, RPM: 0
+PWM Percent: 0.00%, Thrust: 0.63lbs, Battery Voltage: 25.94V, Current: 2.99A, RPM: 0
+PWM Percent: 0.00%, Thrust: 0.67lbs, Battery Voltage: 25.97V, Current: 2.99A, RPM: 0
+PWM Percent: 0.00%, Thrust: 0.77lbs, Battery Voltage: 25.97V, Current: 2.99A, RPM: 0
+P
