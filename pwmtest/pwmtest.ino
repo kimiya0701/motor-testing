@@ -14,7 +14,7 @@
 #define VOLT_DIV_RATIO 5.4
 
 //Current Sensor
-#define CURRENTMETER A0
+#define CURRENTMETER A5
 
 //Load Cell
 #define DOUT  3
@@ -38,7 +38,7 @@ float current_sensor_voltage = 0.0;
 //Load Cell
 HX711 scale;
 float calibration_factor_original = -2070; //miguel and kimiya testing
-float calibration_factor_1 = -(112500.000000000000000); //jun testing
+float calibration_factor_1 = (112500.000000000000000); //jun testing
 float calibration_factor_2 = -(4380000/2); // jun testing
 
 void setup() {
@@ -67,11 +67,11 @@ void loop() {
   current_drawn = (current_sensor_voltage - 2.5)/0.0625;
   
   //thrust calculations
-  scale.set_scale(calibration_factor_original);
+  scale.set_scale(calibration_factor_1);
   
   // print all the data
   
-  //Serial << ", Thrust: " << 0.72*scale.get_units() << "lbs";
+  Serial << ", Thrust: " << 0.72*scale.get_units();
 
   //Serial << ", Moment: " << (scale.get_units())*0.72 << "lbs"; //force on propeller
 
