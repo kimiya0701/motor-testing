@@ -1,30 +1,27 @@
 #include <Streaming.h>
-#include <Servo.h>
+#include "ESC.h"
 
+#define LED_PIN 13                    // Pin for the LED 
+#define POT_PIN A0                    // Analog pin used to connect the potentiometer
+#define ESC_PIN 9                     // Digital pin used to provide PWM to ESC
 
-#define PWM_OUT 6
-#define THROTTLE A0
+ESC myESC (ESC_PIN, 1000, 2000, 1000);         // ESC_Name (PIN, Minimum Value, Maximum Value, Arm Value)
 
-
-int pwm;
-float pwmPercent = 0.0;
-
-Servo ESC;
-
+int val;                                // variable to read the value from the analog pin
 
 void setup() {
   Serial.begin(9600);
-  ESC.attach(6,1000,2000);
+  pinMode(LED_PIN, OUTPUT);             // LED Visual Output
+  myESC.arm();                          // Send the Arm value
+  digitalWrite(LED_PIN, HIGH);          // LED High Once Armed
+  delay(5000);                          // Wait for a while
 }
 
 void loop() {
-  
-  pwm = map((float)analogRead(THROTTLE), 0, 895, 0, 180);
-  ESC.write(pwm);
-  Serial.println(analogRead(THROTTLE));
-  Serial.println(pwm); 
-  pwmPercent = (pwm/180.0) * 100.0;
-  Serial.println(pwmPercent);
-
-  delay(100);
+  val = analogRead(POT_PIN);            // reads the value of the potentiometer (value between 0 and 1023)
+  val = map(val, 0, 896, 0, 2000);  // scale it to use it with the ESC (value between 1000 and 2000)
+  myESC.speed(val);                     // sets the ESC speed according to the scaled value
+  Serial.print("Analog Reading: ");
+  Serial.println(analogRead(POT_PIN));
+  delay(15);                            // Wait for a while
 }
