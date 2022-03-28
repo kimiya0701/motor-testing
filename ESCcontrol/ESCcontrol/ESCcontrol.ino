@@ -23,5 +23,7 @@ void loop() {
   myESC.speed(val);                     // sets the ESC speed according to the scaled value
   Serial.print("Analog Reading: ");
   Serial.println(analogRead(POT_PIN));
-  delay(15);                            // Wait for a while
+  Serial.print("Pwm Percent: ");
+  Serial.println(val/2000.0);
+  delay(1000);                            // Wait for a while
 }

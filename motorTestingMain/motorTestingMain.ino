@@ -2,6 +2,10 @@
 #include <HX711.h>
 #include <movingAvg.h>
 
+/****************************************************************
+Pin Definitions
+*****************************************************************/
+
 //RPM Sensor
 #define MOTOR_POLES 4
 #define RPM_IN 7
@@ -18,6 +22,10 @@
 #define DOUT  3
 #define CLK  4
 
+
+/****************************************************************
+Variables Initialization
+*****************************************************************/
 //RPM Sensor
 int ontime = 0;
 int offtime = 0;
@@ -40,13 +48,13 @@ int readIndex = 0;
 float total = 0.0;
 float current_average = 0.0;
 
-
 //Load Cell
 HX711 scale;
-float calibration_factor_original = -2070; //miguel and kimiya testing
-float calibration_factor_1 = (112500.000000000000000); //jun testing
-float calibration_factor_2 = -(4380000/2); // jun testing
+float calibration_factor = 51410; //calculated in march for testing
 
+/****************************************************************
+Main Program
+*****************************************************************/
 void setup() {
   Serial.begin(9600);
 
@@ -68,7 +76,7 @@ void loop() {
 
   //voltage calculations
   voltage_reading = analogRead(VOLT_DIV_IN);
-  battery_voltage = ((5.4*voltage_reading)/1023)*VOLT_DIV_RATIO; // make sure to check that AREF is 5.4 (change if needed)
+  battery_voltage = ((4.92*voltage_reading)/1023)*VOLT_DIV_RATIO; // make sure to check that AREF is 4.92 (change if needed)
 
   //current calculations  
   current_reading = analogRead(CURRENTMETER);
@@ -93,7 +101,7 @@ void loop() {
   current_average = total / numReadings;
   
   //thrust calculations
-  scale.set_scale(calibration_factor_1);
+  scale.set_scale(calibration_factor);
 
   //rpm calculations
   ontime = pulseIn(RPM_IN,HIGH);
@@ -104,26 +112,13 @@ void loop() {
   rpm = (freq * 60)/ MOTOR_POLES;
   
   // print all the data
-  Serial << "Thrust: " << 0.72*scale.get_units();
+  Serial << 0.72*scale.get_units() << "lbs, ";
 
-  //Serial << ", Moment: " << (scale.get_units())*0.72 << "lbs"; //force on propeller
+  Serial << battery_voltage << "V, ";
 
-  Serial << ", Battery Voltage: " << battery_voltage << 'V';
-
-  Serial << ", Current: " << current_average << 'A';
+  Serial << current_average << "A, ";
   
-  Serial << ", RPM: " << rpm << endl;
+  Serial << rpm << endl;
 
   delay(1000);
 }
-
-//void rpm_isr(void)
-//{
-//  rpmcount++;  
-//}
-//
-//void rpm_counter(void)
-//{
-//  rpm = (rpmcount * 60)/MOTOR_POLES;
-//  rpmcount = 0;
-//}
