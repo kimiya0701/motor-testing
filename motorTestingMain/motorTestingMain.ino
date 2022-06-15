@@ -192,18 +192,18 @@ void loop() {
   /* PRINT THE DATA*/
 
   //Thrust
-  Serial << 0.72*9.81*scale.get_units() << "N, "; //multiply by 0.72 for the moment arm
-  //Serial << scale.get_units() << " kgs, ";
+  Serial << 0.8*9.81*scale.get_units() << ",N, "; //multiply by 0.72 for the moment arm
+  //Serial << scale.get_units() << " ,kgs, ";
 
   
   //Voltage
-  Serial << battery_voltage << "V, ";
+  Serial << battery_voltage << ",V, ";
   
   //Current
-  Serial << current_average << "A, ";
+  Serial << current_average << ",A, ";
   
   //RPM
-  Serial << rpm << ",";
+  Serial << rpm << ", ";
 
   //Prints Temperature Probe Measurements
   // Loop through each device, print out temperature one by one
@@ -211,12 +211,12 @@ void loop() {
     
     // Search the wire for address and store the address in tempDeviceAddress
     if(sensors.getAddress(tempDeviceAddress, i)){
-    Serial<<" Probe ";
-    Serial<<i;
+    //Serial<<" Probe ";
+    //Serial<<i;
 
     // Print the temperature
       float tempC = sensors.getTempC(tempDeviceAddress); //Temperature in degree celsius
-      Serial<<": "<<tempC<<" C;";
+      Serial<<tempC<<" ,C";
       //Serial<<", "<<DallasTemperature::toFahrenheit(tempC)<<" F };"; //Converts tempC to F -removed
     }
   }
