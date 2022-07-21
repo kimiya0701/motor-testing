@@ -13,7 +13,7 @@ Pin Definitions
 #define RPM_IN 7
 
 //Battery Voltage
-#define VOLT_DIV_IN A2
+#define VOLT_DIV_IN A1
 #define VOLT_DIV_RATIO 5.4
 
 //Current Sensor
@@ -103,11 +103,11 @@ void setup() {
   // Get the number of sensors connected to the the wire( digital pin 2)
   numberOfDevices = sensors.getDeviceCount();
   
-  Serial.print(numberOfDevices, DEC);
-  Serial.println(" temperature probes detected.");
+  //Serial.print(numberOfDevices, DEC);
+ // Serial.println(" temperature probes detected.");
 
   // Loop through each sensor and print out address
-  for(int i=0; i<numberOfDevices; i++) {
+ /* for(int i=0; i<numberOfDevices; i++) {
     
     // Search the data wire for address and store the address in "tempDeviceAddress" variable
     if(sensors.getAddress(tempDeviceAddress, i)) {
@@ -127,7 +127,7 @@ void setup() {
     }
     
   }//End of Temperature probe for loop
-  
+  */
 
   //initializing rpm input pin
   pinMode(RPM_IN, INPUT);
@@ -151,7 +151,7 @@ void loop() {
 
   //voltage calculations
   voltage_reading = analogRead(VOLT_DIV_IN);
-  battery_voltage = ((4.92*voltage_reading)/1023)*VOLT_DIV_RATIO; // make sure to check that AREF is 4.92 (change if needed)
+  battery_voltage = ((5.04*voltage_reading)/1023)*VOLT_DIV_RATIO; // make sure to check that AREF is 4.92 (change if needed)
 
   /*CURRENT*/
   current_reading = analogRead(CURRENTMETER);
@@ -221,8 +221,8 @@ void loop() {
     }
   }
     
-  Serial<<"\n"; //seperates data lines
+  Serial<<"\n\r"; //seperates data lines
   
-  delay(1000);
+  delay(100);
   }
   
